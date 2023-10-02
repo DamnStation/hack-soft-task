@@ -17,8 +17,8 @@ const NavigationBar = () => {
         ">
       <img
         src={Logo}
-        alt="Hack Soft Logo"
-        className="md:left-11 left-auto top-3 md:w-[247px] w-fit md:h-[43px] h-fit"
+        alt="Logo"
+        className="w-28 hover:scale-110 transition-all"
       />
       <img
         src={Profile1}
