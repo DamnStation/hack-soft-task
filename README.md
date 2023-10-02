@@ -1,6 +1,6 @@
 # React Application
 
-You can see the website at: [https://damnstation.github.io/like-comment/](https://radoslav-marinovv.github.io/like-comment/)
+You can see the website at: [https://radoslav-marinovv.github.io/like-comment/](https://radoslav-marinovv.github.io/like-comment/)
 
 React with TypeScript application created by Vite
 
